@@ -1,0 +1,3 @@
+Calif. Condor,27,0.02
+Black Rhino,100,1.0
+Eagle,10,1.5

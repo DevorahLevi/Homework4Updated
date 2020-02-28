@@ -1,0 +1,15 @@
+Name: Calif. Condor
+Population: 27
+Growth Rate: 0.02%
+
+
+Name: Black Rhino
+Population: 100
+Growth Rate: 1.0%
+
+
+Name: Eagle
+Population: 10
+Growth Rate: 1.5%
+
+
